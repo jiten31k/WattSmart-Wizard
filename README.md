@@ -31,6 +31,20 @@ EXAMPLE OBSERVED TRENDS 🚀
 ![POWER CONSUMPTION TREND](output_images/output.ww.png)
 
 
+Usage:
+1. **Power On:** Connect the device to a power source.
+2. **Open Blynk App:** Monitor real-time data on the Blynk app dashboard.
+3. **Analyze Data:** Use provided Jupyter Notebooks to analyze energy consumption trends.
+4. **Receive Notifications:** Get real-time alerts and recommendations on your device.
+
+Future Enhancements:
+- **Integration with Renewable Energy Sources:** Incorporate solar panels and wind turbines.
+- **Mobile Application:** Develop a dedicated mobile app for enhanced user experience.
+- **Scalability:** Expand to support multiple sensor nodes for broader energy monitoring.
+- **Advanced Analytics:** Implement machine learning algorithms for better predictions and recommendations.
+
+
+
 ## Contributing
 
 We welcome contributions from the community. Please fork the repository and submit a pull request with your changes.
