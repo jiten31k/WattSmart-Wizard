@@ -1,6 +1,6 @@
-WATTSMART WIZARD : YOUR ENERGY EFFICIENT ALLY 💡
+WATTSMART WIZARD: IoT-Based Energy Monitoring System💡
 
-This repository contains scripts and notebooks for retrieving, processing, and analyzing energy consumption data collected from an ESP32 microcontroller connected to AC current and voltage sensors. The data is visualized and analyzed to provide insights and recommendations for optimizing energy usage.
+Wattsmart-Wizard is an innovative IoT-based solution designed to monitor the energy consumption of household and industrial appliances. This system provides real-time data on usage, identifies inefficiencies, detects leaks, and offers recommendations for energy savings, thereby promoting responsible electricity use and reducing costs.
 
 - *Repository Contents* -
 
@@ -45,4 +45,11 @@ EXAMPLE OBSERVED TRENDS 🚀
 
 *Contributing* -
 Contributions are welcome! Please fork this repository and submit pull requests for any improvements or additional features.
+
+
+*Contact* -
+For questions or suggestions, please contact us at:
+
+Jitendra Kumar Yadav: jitendrajasprit2004@gmail.com
+
 
