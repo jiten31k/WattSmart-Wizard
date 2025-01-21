@@ -44,7 +44,7 @@
 
 ### Use Case Diagram
 
-![Use Case Diagram](./Images%20and%20Diagrams/Screenshot%202025-01-20%20193248.png)
+![Use Case Diagram](Use_Case_Diagram.png)
 
 ### Insights
 
