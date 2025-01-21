@@ -40,7 +40,7 @@
 
 ### System Architecture
 
-![System Architecture](./Images%20and%20Diagrams/Screenshot%202025-01-20%20193231.png)
+![System Architecture](System_Architecture.png)
 
 ### Use Case Diagram
 
