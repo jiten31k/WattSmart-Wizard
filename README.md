@@ -57,7 +57,7 @@
 ### Prototype
 
 <p align="center">
- <img src="./Images%20and%20Diagrams/Screenshot%202025-01-20%20192456.png" width="48%" />
+ <img src="Images and Diagrams/Prototype1.png" width="48%" />
  <img src="./Images%20and%20Diagrams/Screenshot%202025-01-20%20192419.png" width="48%" />
 </p>
 
