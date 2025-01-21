@@ -49,7 +49,7 @@
 ### Insights
 
 <p align="center">
-  <img src="./Images%20and%20Diagrams/Screenshot%202025-01-20%20192528.png" width="32%" />
+  <img src="Analysed_Trends/Power_Consumption_Trends1.png" width="32%" />
   <img src="./Images%20and%20Diagrams/Screenshot%202025-01-20%20194034.png" width="32%" />
   <img src="./Images%20and%20Diagrams/Screenshot%202025-01-20%20192542.png" width="32%" />
 </p>
