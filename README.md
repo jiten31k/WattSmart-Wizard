@@ -58,7 +58,7 @@
 
 <p align="center">
  <img src="Images and Diagrams/Prototype1.png" width="48%" />
- <img src="Images and Diagrams/JIM_0157 (1).JPG" width="48%" />
+ <img src="Images and Diagrams/JIM_0157 (1).JPG" width="48%" height="100%" />
 </p>
 
 #### Prototype Video
